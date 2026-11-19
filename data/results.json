@@ -1,6 +1,19 @@
 {
  "about": "RimRunnerVirginia 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "01f589ee-c087-4e2d-9c59-fe8917e5789e": {
+   "awayMp": "6fc3d57b-47f4-49ea-bb70-d685b5ebf38c",
+   "awayScore": 36,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "va26-0031",
+   "homeMp": "9e17c45c-a757-4bbf-a441-d52c812a8c76",
+   "homeScore": 58,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "0308164d-287f-4baa-9303-adb0e49e0ebf": {
    "awayMp": "88838542-3034-4d81-ab15-047e366b5242",
    "awayScore": 40,
@@ -757,6 +770,18 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "e64e2388-a1af-479e-a4fd-2d28dc3ca9c9": {
+   "awayMp": "51280743-44d5-4d91-b7cd-25d109c78ef4",
+   "awayScore": 69,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "homeMp": "f0d82e69-dabf-44e0-a131-32581fac97dc",
+   "homeScore": 105,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
   },
   "e961bf39-26e9-47ae-a679-ecd48af215ed": {
    "awayMp": "54d009ab-3854-4273-973e-49578f97a747",
