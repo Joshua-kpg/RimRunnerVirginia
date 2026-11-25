@@ -217,6 +217,19 @@
    "state": "unlisted",
    "winner": "away"
   },
+  "19d155f6-a8d2-46a9-944d-038661dfaafe": {
+   "awayMp": "a1aab01c-ad50-4e4e-b2d3-af756f7db15e",
+   "awayScore": 86,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "va26-0090",
+   "homeMp": "2f6889b1-4fc5-4526-9c02-ccfe1bf43342",
+   "homeScore": 79,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "1a0253ad-42ef-4416-9a11-8a2c3e99725d": {
    "awayMp": "9803f92f-51a4-4479-b1d5-54fc2fe1a797",
    "awayScore": 26,
