@@ -672,6 +672,19 @@
    "state": "applied",
    "winner": "home"
   },
+  "50eda406-8575-43f0-9d0f-c8adab99bf90": {
+   "awayMp": "df98dd77-5218-4399-89ff-41312a56d302",
+   "awayScore": 18,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "va26-0095",
+   "homeMp": "99b44e68-1811-4162-807e-0a4dde25ebab",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "51ef5b7b-9f84-4ab2-8e67-5f12004219f6": {
    "awayMp": "3936a228-1ffd-4c6e-bb6b-848ca0a7d0b2",
    "awayScore": 40,
@@ -902,6 +915,18 @@
    "state": "unlisted",
    "winner": "home"
   },
+  "72577a84-e136-4319-837b-0553eaefeba9": {
+   "awayMp": "a6c3e255-0144-4a60-af4b-7a6fccf61329",
+   "awayScore": 49,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "homeMp": "4b731f39-bb94-4a4f-9a29-360908c3f94b",
+   "homeScore": 41,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  },
   "75444a91-c6ff-4d6d-90ab-ce861ed95ddd": {
    "awayMp": "c7c42c86-ddbe-419b-ad38-9fa2b7d6ae4a",
    "awayScore": 46,
@@ -1014,6 +1039,19 @@
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
+   "winner": "home"
+  },
+  "81cda230-84ea-4fd8-b048-e819f2449341": {
+   "awayMp": "72508cec-1113-4900-a0b6-c10b747e03f2",
+   "awayScore": 31,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "va26-0094",
+   "homeMp": "51280743-44d5-4d91-b7cd-25d109c78ef4",
+   "homeScore": 92,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
    "winner": "home"
   },
   "8911f6c0-a487-4258-930d-2834216f1ae4": {
@@ -1311,6 +1349,18 @@
    "source": "scores-page",
    "state": "unlisted",
    "winner": "home"
+  },
+  "a52e85e8-35d7-4057-b537-582995126e04": {
+   "awayMp": "f2f44d27-9fd9-4e9b-bbe3-9544f570ad13",
+   "awayScore": 87,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "homeMp": "d30a464d-0674-4b06-ba03-d6f621b5c3d8",
+   "homeScore": 43,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
   },
   "a61eddb4-4db6-4a89-b9cd-474a2ac8f7bd": {
    "awayMp": "718aede4-faa8-44cf-9119-e19c69d8e738",
